@@ -1,0 +1,63 @@
+html{
+    background-color:orchid;
+}
+
+.welcometitle{
+
+    font-size:28px;
+    color:#0C0404;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.serverIP{
+    font-size:24px;
+    color:#FDFF00;
+    background-color:orchid;
+    
+
+}
+.toptable tr,td,th{
+    border: left 50px;
+    border: top 10px;
+    border: right 25px;
+    border:2px solid black;
+    border-radius:10px;
+    border-width:1px;
+    background-color:#DAA520;
+}
+.HistoryTitle{
+    color:black;
+    font-size:28px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.Teamhead{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:28;
+    text-align:center;
+    
+}
+.owners{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:18;
+    text-align:center;
+    
+}
+.sushiibiography{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:14;
+    text-align:center;
+    
+}
+.taguarbiography{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:14;
+    text-align:center;
+    
+}
