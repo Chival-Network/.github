@@ -8,4 +8,4 @@
 
 ### Join
 <table>
-<tr><td>Java 1.19.4</td><td><code>mc.chival.au</code></td><td><a href="#">Copy (wip)</a></td></tr>
+<tr><td>Java 1.7.10-1.20.1</td><td><code>mc.chival.au</code></td><td></td></tr>
